@@ -12,8 +12,10 @@ Repository (2016/04/01 ~ 2020/12/31)
 3. 응용 서비스와 단말/네트워크 자원의 풀간 최적 매칭 기술
 
 1차년도 시나리오: 단일 경기장 시나리오
+
 2차년도 시나리오: 경기단지 주차장 시나리오 + AR 영상 시청 시나리오
 
 For more information, see the website:
+
 http://FogOS.kaist.ac.kr
 
